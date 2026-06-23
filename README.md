@@ -1,105 +1,91 @@
+# 💫 About Me
 
+🔭 Currently building **DocNova** and software-to-hardware solutions
+🌱 Learning **Raspberry Pi, TypeScript, Embedded Systems, and IoT Development**
+👯 Looking to collaborate on **Open Source, Full-Stack, and Hardware Projects**
+💬 Ask me about **React, TypeScript, Node.js, Embedded Systems, and Raspberry Pi**
+⚡ Fun fact: I love turning software ideas into real-world hardware products.
 
-<h1 align="center">Hi 👋, I'm Parth Sharma</h1>
-<h3 align="center">A full-stack developer and embedded hardware enthusiast building software-to-hardware solutions.</h3>
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=venomdevx&label=Profile%20views&color=0e75b6&style=flat" alt="venomdevx profile views" />
-</p>
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=venomdevx&theme=algolia&no-frame=true&margin-w=8" alt="GitHub trophies" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://venomparth.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:VenomDevX@proton.me)
 
-* 🔭 I’m currently working on [DocNova](https://www.docnova.in)
-* 🌱 I’m currently learning **Raspberry Pi** and **TypeScript**
-* 👨‍💻 Explore my projects at [venomparth.dev](https://venomparth.dev)
-* 💬 Ask me about **Full-Stack Development, Frontend Development, Embedded Hardware, and Raspberry Pi**
-* 📫 Reach me at **[VenomDevX@proton.me](mailto:VenomDevX@proton.me)**
-* ⚡ Fun fact: I enjoy turning software ideas into real-world hardware solutions.
+---
 
-<h3 align="left">Connect with me:</h3>
+# 💻 Tech Stack
 
-<p align="left">
-  <a href="https://venomparth.dev" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/parth-sharma-b96661245/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:VenomDevX@proton.me">
-    <img align="center" src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### Languages
 
-<h3 align="left">Languages and Tools:</h3>
+![C](https://img.shields.io/badge/C-00599C?style=plastic\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic\&logo=typescript\&logoColor=white)
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
+### Frontend
 
-<h3 align="left">GitHub Stats:</h3>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic\&logo=tailwind-css\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomdevx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+### Backend & Database
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venomdevx&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
-</p>
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=plastic\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic\&logo=mysql\&logoColor=white)
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomdevx&theme=tokyonight" alt="GitHub streak" />
-</p>
+### Embedded & Hardware
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic\&logo=Arduino\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=plastic\&logo=Raspberry-Pi\&logoColor=white)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic\&logo=amazon-aws\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 📄 DocNova
+
+A modern document management platform focused on productivity and collaboration.
+
+### 🤖 Raspberry Pi Projects
+
+Building automation, IoT, and embedded solutions using Raspberry Pi.
+
+### 🌐 Full-Stack Applications
+
+Creating scalable web applications with React, Node.js, and TypeScript.
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=github_dark_dimmed\&hide_border=false\&include_all_commits=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=github-dark-blue)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=github_dark_dimmed\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME\&theme=algolia\&no-frame=true\&margin-w=10)
+
+---
+
+### 🔝 Top Contributed Repositories
+
+![](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME\&limit=5\&theme=github_dark\&combine_all_yearly_contributions=true)
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blue)
